@@ -1,0 +1,11 @@
+D:\week2Winform\week2Winform\bin\Debug\week2Winform.exe.config
+D:\week2Winform\week2Winform\bin\Debug\week2Winform.exe
+D:\week2Winform\week2Winform\bin\Debug\week2Winform.pdb
+D:\week2Winform\week2Winform\obj\Debug\week2Winform.csproj.AssemblyReference.cache
+D:\week2Winform\week2Winform\obj\Debug\week2Winform.csproj.SuggestedBindingRedirects.cache
+D:\week2Winform\week2Winform\obj\Debug\week2Winform.Form1.resources
+D:\week2Winform\week2Winform\obj\Debug\week2Winform.Properties.Resources.resources
+D:\week2Winform\week2Winform\obj\Debug\week2Winform.csproj.GenerateResource.cache
+D:\week2Winform\week2Winform\obj\Debug\week2Winform.csproj.CoreCompileInputs.cache
+D:\week2Winform\week2Winform\obj\Debug\week2Winform.exe
+D:\week2Winform\week2Winform\obj\Debug\week2Winform.pdb
